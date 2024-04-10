@@ -64,6 +64,7 @@ p{
 }
 
 .date{
+  position: absolute;
   margin-left: 350px;
 
 }
@@ -77,5 +78,10 @@ p{
   padding: 0;
   margin: 0;
   padding-left: 12px;
+}
+
+#elrImage{
+  width: 400px;
+  height: auto;
 }
 
