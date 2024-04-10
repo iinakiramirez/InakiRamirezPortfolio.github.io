@@ -57,11 +57,25 @@ p{
   margin: 0 auto;
   padding: 40px;
   padding-left: 300px;
-  width: 60%;
+  width: 50%;
   text-align: justify;
   position: absolute;
   
 }
 
+.date{
+  margin-left: 350px;
 
+}
+
+.postImage{
+  width: 700px;
+  height: auto;
+}
+
+.filmlist{
+  padding: 0;
+  margin: 0;
+  padding-left: 12px;
+}
 
