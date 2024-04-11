@@ -99,4 +99,13 @@ p{
   height: auto;
 }
 
+.imagLive{
+  width: 600px;
+  height: auto;
+}
+
+#perfLoop{
+  width: 400px;
+  height: auto;
+}
 
