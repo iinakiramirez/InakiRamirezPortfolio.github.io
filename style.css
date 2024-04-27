@@ -24,6 +24,10 @@ canvas {
   display: block;
 }
 
+.divlist{
+  font-family: myFon;
+}
+
 
 a{
   color: black;
@@ -47,7 +51,7 @@ nav ul li{
  
   }
 
-  #homeimage {
+#homeimage {
     width: 400px; 
     height: auto; 
     display: block;
@@ -113,8 +117,17 @@ p{
   height: auto;
 }
 
+.imagCor{
+  width: 500px;
+  height: auto;
+}
+
 #perfLoop{
   width: 400px;
   height: auto;
 }
 
+#perfCor{
+  width: 650px;
+  height: auto;
+}
