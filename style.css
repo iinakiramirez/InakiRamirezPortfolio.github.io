@@ -5,6 +5,12 @@
   src: url(NB-International-Pro-Edition-OTF/NBInternationalProIta.otf);
 }
 
+@font-face {
+  font-family: myFon;
+  src: url(NB-International-Pro-Edition-OTF/NBInternationalProMed.otf);
+}
+
+
 
 html, body {
   margin: 0;
@@ -13,9 +19,11 @@ html, body {
   font-family: myFont;
 
 }
+
 canvas {
   display: block;
 }
+
 
 a{
   color: black;
@@ -51,6 +59,7 @@ nav ul li{
 
 p{
   line-height: 1.5;
+  font-family: myFon;
 }
   
 .centerText{
